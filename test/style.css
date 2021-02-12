@@ -1,0 +1,27 @@
+body {
+    background-color: whitesmoke;
+        background-attachment: fixed;
+    }
+    .rightans
+    {
+        border:3px solid #0f0;
+        background-color: #afa;
+    }
+    .wrongans
+    {
+       border:3px solid #f00;
+        background-color: #faa;
+    }
+    #quiz{
+      margin-left: 145px;
+      margin-right: 145px;
+    }
+    
+    #btn
+    {
+      margin-left: 120px;
+    }
+    
+    #score{
+    margin-left: 120px;
+    }
